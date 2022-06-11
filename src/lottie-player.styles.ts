@@ -16,7 +16,7 @@ export default css`
     --lottie-player-toolbar-icon-hover-color: #222;
     --lottie-player-toolbar-icon-active-color: #555;
     --lottie-player-seeker-track-color: #ccc;
-    --lottie-player-seeker-thumb-color: rgba(0, 107, 120, 0.8);
+    --lottie-player-seeker-thumb-color: rgb(0, 177, 191);
     --lottie-player-seeker-display: block;
 
     display: block;
